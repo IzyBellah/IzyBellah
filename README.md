@@ -31,7 +31,7 @@ Tenho interesse em tecnologia, especialmente desenvolvimento de software, e esto
 
 <img width="64" height="64" alt="js" src="https://github.com/user-attachments/assets/d3eb31a4-ec23-41d2-a782-7689c705f071" />
 
-<img width="64" height="64" alt="git" src="https://github.com/user-attachments/assets/228caccb-9572-441f-a6cd-2ee424eeaaef" />
+<img width="64" height="64" alt="git" src="https://github.com/user-attachments/assets/451c7bce-09bd-450a-a23f-e9350395114e" />
 
 <img width="64" height="64" alt="mysql" src="https://github.com/user-attachments/assets/d32c7dc0-0133-4fe9-90f8-73226bdbda3e" />
 
