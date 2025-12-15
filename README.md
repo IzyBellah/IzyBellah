@@ -24,7 +24,7 @@ Tenho interesse em tecnologia, especialmente desenvolvimento de software, e esto
 
 ## Skills:
 
-<p>
+<p align="center">
 <img width="64" height="64" alt="html-5" src="https://github.com/user-attachments/assets/89dae0d8-d8dd-40b7-a611-eec4c6f5da82" />
 
 <img width="64" height="64" alt="css" src="https://github.com/user-attachments/assets/284872c9-7c58-4fb2-aea5-f3ab7ab8e4d7" />
