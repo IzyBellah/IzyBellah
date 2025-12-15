@@ -1,4 +1,6 @@
-<img width="2560" height="425" alt="banner_github" src="https://github.com/user-attachments/assets/3af9ee92-9226-4ece-a1ee-01425c0096a6"/>
+
+<img width="3780" height="1890" alt="Banner para Loja de Roupas Frete Grátis Minimalista Cinza e Branco" src="https://github.com/user-attachments/assets/5122982e-2a54-4fbf-892e-386bdacab070" />
+
 
 <br>
 <br>
