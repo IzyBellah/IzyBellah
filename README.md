@@ -25,16 +25,15 @@ Tenho interesse em tecnologia, especialmente desenvolvimento de software, e esto
 ## Skills:
 
 <p>
+<img width="64" height="64" alt="html-5" src="https://github.com/user-attachments/assets/89dae0d8-d8dd-40b7-a611-eec4c6f5da82" />
 
-<img width="64" height="64" alt="html-5" src="https://github.com/user-attachments/assets/dc53b96b-9f2f-4cc2-9836-608e5d265725" />
+<img width="64" height="64" alt="css" src="https://github.com/user-attachments/assets/284872c9-7c58-4fb2-aea5-f3ab7ab8e4d7" />
 
-<img width="64" height="64" alt="css" src="https://github.com/user-attachments/assets/2424704d-f1af-423f-9976-57e2d18ec82a" />
-
-<img width="64" height="64" alt="js" src="https://github.com/user-attachments/assets/b713a32c-4784-4e4c-adb2-84b097ef8420" />
+<img width="64" height="64" alt="js" src="https://github.com/user-attachments/assets/d3eb31a4-ec23-41d2-a782-7689c705f071" />
 
 <img width="64" height="64" alt="git" src="https://github.com/user-attachments/assets/228caccb-9572-441f-a6cd-2ee424eeaaef" />
 
-<img width="64" height="64" alt="mysql" src="https://github.com/user-attachments/assets/b80a0b99-2040-4915-b8b0-85bf4f06ebcd" />
+<img width="64" height="64" alt="mysql" src="https://github.com/user-attachments/assets/d32c7dc0-0133-4fe9-90f8-73226bdbda3e" />
 
 </p>
 
